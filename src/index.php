@@ -55,6 +55,12 @@
                     <span>Dashboard</span></a>
             </li>
 
+            <!-- Nav Item - List Board -->
+            <li class="nav-item active">
+                <a class="nav-link" href="index.html">
+                    <span>List Board</span></a>
+            </li>
+
             <!-- Divider -->
             <hr class="sidebar-divider">
 
